@@ -7,3 +7,4 @@ My take on the [Advent of Code 2020](https://adventofcode.com)
 | DAY | LANGUAGE |
 |:---:|:--------:|
 |  1  |    Go    |
+|  2  |    C     |
