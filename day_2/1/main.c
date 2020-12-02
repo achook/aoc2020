@@ -5,8 +5,6 @@
 int main(void) {
     FILE* f;
     char buffer[100];
-    f = fopen("file.txt", "r");
-
     
     f = fopen("input.txt", "r");
     if (f == NULL) {
