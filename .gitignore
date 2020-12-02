@@ -375,3 +375,6 @@ dmypy.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,vscode,c,c++,python,node,git
+
+# Compiled main files
+main
