@@ -13,3 +13,4 @@ My take on the [Advent of Code 2020](https://adventofcode.com)
 |  5  |   C++    |
 |  6  |  Python  |
 |  7  |    Go    |
+|  8  |    C     |
